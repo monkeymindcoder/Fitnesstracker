@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Activity Progress Arc (Vibrant Lime) -->
+    <path
+        android:pathData="M54,20 A34,34 0 1,1 53.9,20"
+        android:strokeColor="#C2F126"
+        android:strokeWidth="6"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+
+    <!-- Inner Cardiovascular Flow Arc (Teal Cardio) -->
+    <path
+        android:pathData="M54,32 A22,22 0 1,1 53.9,32"
+        android:strokeColor="#04D9B2"
+        android:strokeWidth="6"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+
+    <!-- Center Athletic Resistance Dumbbell (Pure White) -->
+    <!-- Dumbbell Bar -->
+    <path
+        android:pathData="M46,54 L62,54"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="5"
+        android:strokeLineCap="round" />
+        
+    <!-- Left Plate -->
+    <path
+        android:pathData="M41,45 L41,63"
+        android:strokeColor="#C2F126"
+        android:strokeWidth="5"
+        android:strokeLineCap="round" />
+
+    <!-- Right Plate -->
+    <path
+        android:pathData="M67,45 L67,63"
+        android:strokeColor="#C2F126"
+        android:strokeWidth="5"
+        android:strokeLineCap="round" />
+</vector>
